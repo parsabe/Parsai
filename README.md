@@ -3,7 +3,7 @@
 
 # Parsai - GPT-4 Powered Assistant
 
-Parsai combines a Chrome extension and a Telegram bot to provide versatile coding assistance using OpenAI's GPT-4.
+Parsai is a Edge, Firefox and Chrome extension and a Telegram bot to provide versatile coding assistance using OpenAI's GPT-4.
 
 ## Distributions
 

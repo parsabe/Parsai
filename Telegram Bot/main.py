@@ -8,6 +8,8 @@ from io import BytesIO
 OPENAI_API_KEY = '' #OpenAI API Code
 TELEGRAM_API_KEY = '' #Telgram Bot Access Token
 
+
+
 # Initialize the OpenAI API client
 openai.api_key = OPENAI_API_KEY
 

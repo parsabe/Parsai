@@ -52,7 +52,6 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_message = update.message.text
     chat_id = update.message.chat_id
 
-    # Handle file analysis request
     if user_message.startswith("analyze file"):
         file_path = user_message.split(" ", 2)[2]
         try:

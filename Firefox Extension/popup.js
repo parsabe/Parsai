@@ -19,6 +19,8 @@ document.getElementById('submit').addEventListener('click', async () => {
       })
     });
 
+    
+
     const data = await response.json();
     if (data.choices && data.choices[0].message) {
       responseElement.textContent = data.choices[0].message.content.trim();

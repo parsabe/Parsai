@@ -7,6 +7,7 @@ Parsai is a Edge, Firefox and Chrome extension and a Telegram bot to provide ver
 
 ## Distributions
 
+
 ### 1. Parsai Google Chrome Extension
 This Chrome Extension, which uses GPT-4,  helps you by responding to your queries.
 

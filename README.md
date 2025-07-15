@@ -16,6 +16,7 @@ This Chrome Extension, which uses GPT-4,  helps you by responding to your querie
 - **Syntax Highlighting**: Responses are formatted and highlighted based on the detected programming language.
 - **Dark Theme**: The extension features a sleek dark theme with black and dark purple colors.
 
+
 #### Setup
 1. **Download the Source Code**: Download the source code from the [Releases](https://github.com/your-username/parsai/releases) page.
 2. **Extract the Zip File**: Extract the downloaded zip file.

@@ -33,6 +33,7 @@ def analyze_file(file_content):
     except Exception as e:
         return f"An error occurred while analyzing the file: {e}"
 
+
 def generate_image(prompt):
     try:
         response = openai.Image.create(

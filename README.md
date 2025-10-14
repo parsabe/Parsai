@@ -33,6 +33,7 @@ const OPENAI_API_KEY = ''; //openAI API Key
 ### 2. Parsai Telegram Bot
 The Parsai Telegram bot allows you to ask coding questions and receive answers.
 
+
 #### Features
 
 - Ask questions and get answers from GPT-4 directly in Telegram.

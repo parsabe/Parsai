@@ -1,5 +1,6 @@
 
 <img src='https://github.com/parsabe/Parsai/blob/main/main.jpg'>
+
 # Parsai - GPT-4 Powered Assistant
 
 Parsai is a Edge, Firefox and Chrome extension and a Telegram bot to provide versatile coding assistance using OpenAI's GPT-4.
